@@ -114,5 +114,5 @@ Hi there! I'm **Thejus PM**, also known as **thejus**. I’m an IT professional 
 Let's stay in touch! Feel free to connect with me on the following platforms:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/p-m-tejas-45aa7b110/)
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tejas-portfolio-nu.vercel.app/))
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tejas-portfolio-nu.vercel.app/)
 
